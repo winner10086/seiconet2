@@ -1,9 +1,0 @@
-the_first_group_of_ablation_experiments/Ablation_experiment_in_Bird(a21,a22,a23)/AlexNet_model/AlexNet.pth filter=lfs diff=lfs merge=lfs -text
-the_first_group_of_ablation_experiments/Ablation_experiment_in_Car(a31,a32,a33)/AlexNet_model/AlexNet.pth filter=lfs diff=lfs merge=lfs -text
-the_first_group_of_ablation_experiments/Ablation_experiment_in_Deer(a11,a12,a13)/AlexNet_model/AlexNet.pth filter=lfs diff=lfs merge=lfs -text
-.git/lfs/objects/82/02/820205e4a8f414388815c93bd180a353d13ce1a9b6a56636de0b87e0437efba6 filter=lfs diff=lfs merge=lfs -text
-.git/lfs/objects/a3/0a/a30a122713c399b497587344b292146a630ff67499a87ffc44ad192484e583af filter=lfs diff=lfs merge=lfs -text
-.git/lfs/objects/0f/22/0f22dc62e842dcd8004579185500d70038d8535b82d3bf4e7d3c1fb74c43a77e filter=lfs diff=lfs merge=lfs -text
-the_second_group_of_ablation_experiments/Ablation_experiment_in_Bird(b31,b32,b33)/AlexNet_model/AlexNet.pth filter=lfs diff=lfs merge=lfs -text
-the_second_group_of_ablation_experiments/Ablation_experiment_in_Dog(b11,b12,b13)/AlexNet_model/AlexNet.pth filter=lfs diff=lfs merge=lfs -text
-the_second_group_of_ablation_experiments/Ablation_experiment_in_Ship(b21,b22,b23)/AlexNet_model/AlexNet.pth filter=lfs diff=lfs merge=lfs -text
